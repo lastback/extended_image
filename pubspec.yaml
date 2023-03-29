@@ -9,6 +9,7 @@ environment:
 
 dependencies:
   extended_image_library:
+    # path: /Users/likai/Documents/github/extended_image_library
     git: git@github.com:lastback/extended_image_library.git
   flutter:
     sdk: flutter
