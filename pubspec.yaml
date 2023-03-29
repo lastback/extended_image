@@ -8,7 +8,8 @@ environment:
   flutter: '>=3.7.0'
 
 dependencies:
-  extended_image_library: ^3.4.0
+  extended_image_library:
+    git: git@github.com:lastback/extended_image_library.git
   flutter:
     sdk: flutter
   meta: ^1.7.0
